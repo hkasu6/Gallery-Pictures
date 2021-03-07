@@ -1,0 +1,26 @@
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+}
+.grid-item {
+    padding: 20px;
+}
+
+.column {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.row img {
+    height: 300px;
+    width: 300px;
+    margin-top: 35px;
+}
